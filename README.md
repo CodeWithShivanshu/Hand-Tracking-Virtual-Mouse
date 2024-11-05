@@ -12,8 +12,7 @@
 To setup the system. follow the instructions below:
 
 1. Clone the repository to your machine
-
-   ```bash
+ ```bash
    https://github.com/CodeWithShivanshu/Hand-Tracking-Virtual-Mouse.git   
 ```
 
